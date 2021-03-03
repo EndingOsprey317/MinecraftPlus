@@ -1,0 +1,26 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:magicite_log"
+    },
+    "1": {
+      "item": "mp:magicite_log"
+    },
+    "2": {
+      "item": "mp:magicite_log"
+    },
+    "3": {
+      "item": "mp:magicite_log"
+    }
+  },
+  "result": {
+    "item": "mp:magicite_wood",
+    "count": 3
+  }
+}

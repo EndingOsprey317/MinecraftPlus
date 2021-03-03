@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 200.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.SMOOTH_STONE"
+    },
+    "blastingReturnStack": {
+      "value": "Items.LAVA_BUCKET"
+    },
+    "name": "lava_recipe",
+    "namespace": "mod"
+  }
+}

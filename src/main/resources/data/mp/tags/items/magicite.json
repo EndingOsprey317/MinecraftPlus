@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "mp:magicite_dust",
+    "mp:magicite_ore",
+    "mp:magicite_block",
+    "mp:magicite_pickaxe",
+    "mp:magicite_axe",
+    "mp:magicite_sword",
+    "mp:magicite_shovel",
+    "mp:magicite_hoe",
+    "mp:magicite_armor_helmet",
+    "mp:magicite_armor_chestplate",
+    "mp:magicite_armor_leggings",
+    "mp:magicite_armor_boots",
+    "mp:magicite_wood",
+    "mp:magicite_log",
+    "mp:magicite_planks",
+    "mp:magicite_leaves",
+    "mp:magicite_stairs",
+    "mp:magicite_slab",
+    "mp:magicite_fence",
+    "mp:magicite_fence_gate"
+  ]
+}

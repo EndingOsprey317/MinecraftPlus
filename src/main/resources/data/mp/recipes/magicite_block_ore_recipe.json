@@ -1,0 +1,13 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mp:magicite_block"
+    }
+  ],
+  "result": {
+    "item": "mp:magicite_dust",
+    "count": 9
+  }
+}

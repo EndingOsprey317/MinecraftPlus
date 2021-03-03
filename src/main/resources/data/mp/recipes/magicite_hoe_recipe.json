@@ -1,0 +1,27 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:magicite_dust"
+    },
+    "1": {
+      "item": "mp:magicite_dust"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mp:magicite_hoe",
+    "count": 1
+  }
+}

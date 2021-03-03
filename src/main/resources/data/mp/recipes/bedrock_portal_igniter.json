@@ -1,0 +1,20 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:compressed_bedrock"
+    },
+    "1": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "mp:bedrock_dimension",
+    "count": 1
+  }
+}

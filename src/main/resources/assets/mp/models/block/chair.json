@@ -1,0 +1,8 @@
+{
+  "parent": "mp:custom/chair",
+  "textures": {
+    "all": "mp:blocks/oak_planks",
+    "particle": "mp:blocks/oak_planks",
+    "0": "mp:blocks/oak_planks"
+  }
+}

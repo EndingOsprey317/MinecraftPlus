@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "magicite__pickaxe",
+    "customModelName": "Normal",
+    "name": "Magicite Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MinecraftPlusTabCombatAndTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 18,
+    "efficiency": 23.0,
+    "attackSpeed": 1.0,
+    "enchantability": 129,
+    "damageVsEntity": 18.0,
+    "usageCount": 5588,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Magicite_Dust"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

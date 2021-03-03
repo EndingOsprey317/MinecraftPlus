@@ -1,0 +1,9 @@
+{
+  "parent": "mp:custom/campfire_with_stand",
+  "textures": {
+    "all": "mp:blocks/campfire_with_stand",
+    "particle": "mp:blocks/campfire_with_stand",
+    "oak_planks": "mp:blocks/oak_planks",
+    "iron_block": "mp:blocks/iron_block"
+  }
+}

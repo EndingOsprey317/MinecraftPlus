@@ -1,0 +1,73 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Magicite_Dust"
+      },
+      {
+        "value": "CUSTOM:Magicite_Ore"
+      },
+      {
+        "value": "CUSTOM:Magicite_Block"
+      },
+      {
+        "value": "CUSTOM:Magicite_Pickaxe"
+      },
+      {
+        "value": "CUSTOM:Magicite_Axe"
+      },
+      {
+        "value": "CUSTOM:Magicite_Sword"
+      },
+      {
+        "value": "CUSTOM:Magicite_Shovel"
+      },
+      {
+        "value": "CUSTOM:Magicite_Hoe"
+      },
+      {
+        "value": "CUSTOM:Magicite_Armor.helmet"
+      },
+      {
+        "value": "CUSTOM:Magicite_Armor.body"
+      },
+      {
+        "value": "CUSTOM:Magicite_Armor.legs"
+      },
+      {
+        "value": "CUSTOM:Magicite_Armor.boots"
+      },
+      {
+        "value": "CUSTOM:Magicite_Wood"
+      },
+      {
+        "value": "CUSTOM:Magicite_Log"
+      },
+      {
+        "value": "CUSTOM:Magicite_Planks"
+      },
+      {
+        "value": "CUSTOM:Magicite_Leaves"
+      },
+      {
+        "value": "CUSTOM:Magicite_Stairs"
+      },
+      {
+        "value": "CUSTOM:Magicite_Slab"
+      },
+      {
+        "value": "CUSTOM:Magicite_Fence"
+      },
+      {
+        "value": "CUSTOM:Magicite_FenceGate"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "magicite",
+    "namespace": "mod"
+  }
+}

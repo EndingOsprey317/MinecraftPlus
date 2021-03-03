@@ -1,0 +1,25 @@
+{
+  "_fv": 13,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Duplicator",
+    "type": "DIGGER",
+    "rarity": "COMMON",
+    "minLevel": 1,
+    "maxLevel": 10,
+    "damageModifier": 0,
+    "compatibleEnchantments": [
+      {
+        "value": "CUSTOM:HasteMiner"
+      }
+    ],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:BedrockPickaxe"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

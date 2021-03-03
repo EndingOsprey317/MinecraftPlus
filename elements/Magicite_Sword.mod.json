@@ -1,0 +1,33 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "magicite__sword",
+    "customModelName": "Normal",
+    "name": "Magicite Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MinecraftPlusTabCombatAndTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 18,
+    "efficiency": 23.0,
+    "attackSpeed": 1.0,
+    "enchantability": 129,
+    "damageVsEntity": 55.0,
+    "usageCount": 5588,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Magicite_Dust"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "GetHelpUse"
+    }
+  }
+}

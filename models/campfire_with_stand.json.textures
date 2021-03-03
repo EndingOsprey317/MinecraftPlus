@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "oak_planks": "oak_planks",
+        "iron_block": "iron_block"
+      },
+      "name": "default"
+    }
+  }
+}

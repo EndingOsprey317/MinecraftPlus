@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mp:blocks/reaction_table_side",
+    "up": "mp:blocks/reaction_table",
+    "north": "mp:blocks/reaction_table_side",
+    "east": "mp:blocks/reaction_table_side",
+    "south": "mp:blocks/reaction_table_side",
+    "west": "mp:blocks/reaction_table_side",
+    "particle": "mp:blocks/reaction_table_side"
+  }
+}

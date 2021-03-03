@@ -1,0 +1,42 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tnt"
+    },
+    "1": {
+      "item": "minecraft:crafting_table"
+    },
+    "2": {
+      "item": "minecraft:tnt"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "4": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "minecraft:cobblestone"
+    },
+    "6": {
+      "item": "minecraft:tnt"
+    },
+    "7": {
+      "item": "minecraft:cobblestone"
+    },
+    "8": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "mp:reaction_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:magicite__log"
+    }
+  ],
+  "result": {
+    "item": "mp:magicite_planks",
+    "count": 4
+  }
+}

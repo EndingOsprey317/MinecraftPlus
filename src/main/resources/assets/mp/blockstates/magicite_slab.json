@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mp:block/magicite_slab"
+    },
+    "type=top": {
+      "model": "mp:block/magicite_slab_top"
+    },
+    "type=double": {
+      "model": "mp:block/magicite_slab_full"
+    }
+  }
+}

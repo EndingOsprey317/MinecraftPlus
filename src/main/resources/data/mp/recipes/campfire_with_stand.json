@@ -1,0 +1,20 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:campfire_stand"
+    },
+    "1": {
+      "item": "minecraft:campfire"
+    }
+  },
+  "result": {
+    "item": "mp:campfire_with_stand",
+    "count": 1
+  }
+}

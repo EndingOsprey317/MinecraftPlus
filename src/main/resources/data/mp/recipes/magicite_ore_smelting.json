@@ -1,0 +1,12 @@
+{
+  "group": "mp",
+  "type": "minecraft:smelting",
+  "experience": 6.4399999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mp:magicite_ore"
+  },
+  "result": {
+    "item": "mp:magicite_dust"
+  }
+}

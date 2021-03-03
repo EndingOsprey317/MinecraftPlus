@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mp:blocks/magicite__log_top",
+    "up": "mp:blocks/magicite__log_top",
+    "north": "mp:blocks/magicite__log_side",
+    "east": "mp:blocks/magicite__log_side",
+    "south": "mp:blocks/magicite__log_side",
+    "west": "mp:blocks/magicite__log_side",
+    "particle": "mp:blocks/magicite__log_top"
+  }
+}

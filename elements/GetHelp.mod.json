@@ -1,0 +1,21 @@
+{
+  "_fv": 13,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Get Help",
+    "type": "WEAPON",
+    "rarity": "COMMON",
+    "minLevel": 1,
+    "maxLevel": 3,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:Magicite_Sword"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

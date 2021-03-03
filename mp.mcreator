@@ -1,0 +1,1347 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GetHelp",
+      "type": "enchantment",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_help"
+    },
+    {
+      "name": "GetHelpUse",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "get_help_use",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MincraftPlusTabItems",
+      "type": "tab",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mincraft_plus_tab_items"
+    },
+    {
+      "name": "MPBI",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mpbi"
+    },
+    {
+      "name": "Magicite_Dust",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_dust"
+    },
+    {
+      "name": "Magicite_Ore",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_ore"
+    },
+    {
+      "name": "Magicite_Block",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_block"
+    },
+    {
+      "name": "Magicite_OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_ore_block_recipe"
+    },
+    {
+      "name": "Magicite_BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_block_ore_recipe"
+    },
+    {
+      "name": "Magicite_OreSmelting",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_ore_smelting"
+    },
+    {
+      "name": "Magicite_Pickaxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_pickaxe"
+    },
+    {
+      "name": "Magicite_Axe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_axe"
+    },
+    {
+      "name": "Magicite_Sword",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_sword"
+    },
+    {
+      "name": "Magicite_Shovel",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_shovel"
+    },
+    {
+      "name": "Magicite_Hoe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_hoe"
+    },
+    {
+      "name": "Magicite_PickaxeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_pickaxe_recipe"
+    },
+    {
+      "name": "Magicite_AxeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_axe_recipe"
+    },
+    {
+      "name": "Magicite_SwordRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_sword_recipe"
+    },
+    {
+      "name": "Magicite_ShovelRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_shovel_recipe"
+    },
+    {
+      "name": "Magicite_HoeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_hoe_recipe"
+    },
+    {
+      "name": "Magicite_Armor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Magicite_ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_armor_helmet_recipe"
+    },
+    {
+      "name": "Magicite_ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_armor_body_recipe"
+    },
+    {
+      "name": "Magicite_ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_armor_leggings_recipe"
+    },
+    {
+      "name": "Magicite_ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_armor_boots_recipe"
+    },
+    {
+      "name": "Magicite_Wood",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_wood"
+    },
+    {
+      "name": "Magicite_Log",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_log"
+    },
+    {
+      "name": "Magicite_Planks",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_planks"
+    },
+    {
+      "name": "Magicite_Leaves",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_leaves"
+    },
+    {
+      "name": "Magicite_Stairs",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_stairs"
+    },
+    {
+      "name": "Magicite_Slab",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_slab"
+    },
+    {
+      "name": "Magicite_Fence",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_fence"
+    },
+    {
+      "name": "Magicite_FenceGate",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_fence_gate"
+    },
+    {
+      "name": "Magicite_WoodRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_wood_recipe"
+    },
+    {
+      "name": "Magicite_PlanksRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_planks_recipe"
+    },
+    {
+      "name": "Magicite_StairsRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_stairs_recipe"
+    },
+    {
+      "name": "Magicite_SlabRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_slab_recipe"
+    },
+    {
+      "name": "Magicite_FenceRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_fence_recipe"
+    },
+    {
+      "name": "Magicite_FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_fence_gate_recipe"
+    },
+    {
+      "name": "Magicite_StickRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_stick_recipe"
+    },
+    {
+      "name": "MagicBiome",
+      "type": "biome",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_biome"
+    },
+    {
+      "name": "MinecraftPlusTabCombatAndTools",
+      "type": "tab",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minecraft_plus_tab_combat_and_tools"
+    },
+    {
+      "name": "MinecraftPlusBlocks",
+      "type": "tab",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minecraft_plus_blocks"
+    },
+    {
+      "name": "MagicCow",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_cow"
+    },
+    {
+      "name": "MagiciteTag",
+      "type": "tag",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicite_tag"
+    },
+    {
+      "name": "MPBIRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mpbi_recipe"
+    },
+    {
+      "name": "MusicBoxGui",
+      "type": "gui",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music_box_gui"
+    },
+    {
+      "name": "MusicBox",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music_box"
+    },
+    {
+      "name": "Speaker",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speaker"
+    },
+    {
+      "name": "MusicBoxRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music_box_recipe"
+    },
+    {
+      "name": "SpeakerRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speaker_recipe"
+    },
+    {
+      "name": "PlayChirp",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "play_chirp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MusicBoxDestroyed",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music_box_destroyed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ReactionTableGUI",
+      "type": "gui",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaction_table_gui"
+    },
+    {
+      "name": "ReactionTable",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaction_table"
+    },
+    {
+      "name": "ReactionTableCraft",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaction_table_craft",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Graphite",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphite"
+    },
+    {
+      "name": "ReactionTableRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaction_table_recipe"
+    },
+    {
+      "name": "LavaRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_recipe"
+    },
+    {
+      "name": "EnderStaff",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_staff"
+    },
+    {
+      "name": "EnderStaffGui",
+      "type": "gui",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_staff_gui"
+    },
+    {
+      "name": "EnderStaffGo",
+      "type": "procedure",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_staff_go",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnderStaffFindPosition",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_staff_find_position",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FlightPotion",
+      "type": "potion",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion"
+    },
+    {
+      "name": "Flight_Potion_Off",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion_off",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flight_Potion_On",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_potion_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnderStaffRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_staff_recipe"
+    },
+    {
+      "name": "TheWorldOfMagic",
+      "type": "achievement",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_world_of_magic"
+    },
+    {
+      "name": "ICanFeelThePower",
+      "type": "achievement",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "i_can_feel_the_power"
+    },
+    {
+      "name": "TheItem",
+      "type": "achievement",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_item"
+    },
+    {
+      "name": "MagicTicket",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_ticket"
+    },
+    {
+      "name": "TicketMagicite",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ticket_magicite"
+    },
+    {
+      "name": "TicketMPBI",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ticket_mpbi"
+    },
+    {
+      "name": "SometimesFloorOn",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sometimes_floor_on"
+    },
+    {
+      "name": "SometimesFloor",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sometimes_floor"
+    },
+    {
+      "name": "Sometimes_Floor_Redstone_Off",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sometimes_floor_redstone_off",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sometimes_Floor_Redstone_On",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sometimes_floor_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chair",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chair"
+    },
+    {
+      "name": "ChairRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chair_recipe"
+    },
+    {
+      "name": "CampfireStand",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_stand"
+    },
+    {
+      "name": "CampfireWithStand",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_with_stand"
+    },
+    {
+      "name": "CampfireStandRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_stand_recipe"
+    },
+    {
+      "name": "CampfireWithStandRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_with_stand_recipe"
+    },
+    {
+      "name": "SometimesFloorRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sometimes_floor_recipe"
+    },
+    {
+      "name": "BedrockBreaker",
+      "type": "enchantment",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_breaker"
+    },
+    {
+      "name": "BedrockPickaxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_pickaxe"
+    },
+    {
+      "name": "BedrockAxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_axe"
+    },
+    {
+      "name": "BedrockSword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_sword"
+    },
+    {
+      "name": "BedrockShovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_shovel"
+    },
+    {
+      "name": "BedrockHoe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_hoe"
+    },
+    {
+      "name": "BedrockPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_pickaxe_recipe"
+    },
+    {
+      "name": "BedrockAxeRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_axe_recipe"
+    },
+    {
+      "name": "BedrockSwordRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_sword_recipe"
+    },
+    {
+      "name": "BedrockShovelRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_shovel_recipe"
+    },
+    {
+      "name": "BedrockHoeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_hoe_recipe"
+    },
+    {
+      "name": "BedrockBreakerProcedure",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_breaker_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BedrockArmor",
+      "type": "armor",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BedrockArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_helmet_recipe"
+    },
+    {
+      "name": "BedrockArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_body_recipe"
+    },
+    {
+      "name": "BedrockArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_leggings_recipe"
+    },
+    {
+      "name": "BedrockArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_boots_recipe"
+    },
+    {
+      "name": "CompressedBedrock",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_bedrock"
+    },
+    {
+      "name": "CompressedBedrockRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_bedrock_recipe"
+    },
+    {
+      "name": "BedrockBiome",
+      "type": "biome",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_biome"
+    },
+    {
+      "name": "BedrockDimension",
+      "type": "dimension",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_dimension"
+    },
+    {
+      "name": "BedrockPortalIgniterRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_portal_igniter_recipe"
+    },
+    {
+      "name": "HasteMiner",
+      "type": "enchantment",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haste_miner"
+    },
+    {
+      "name": "HasteMinerProcedure",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haste_miner_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Duplicator",
+      "type": "enchantment",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duplicator"
+    },
+    {
+      "name": "Clearitem_Procedure",
+      "type": "procedure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clearitem_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "cmdparams",
+            "type": "map"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clearitem",
+      "type": "command",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clearitem"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "PlayerX",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "PlayerY",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "PlayerZ",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "Player_Kicking",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "record.wash",
+      "files": [
+        "ending-wash"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.mp.magicite_armor_chestplate": "Magicite Chestplate",
+      "item.mp.bedrock_armor_boots": "Bedrock Boots",
+      "block.mp.compressed_bedrock": "Compressed Bedrock",
+      "block.mp.magicite_planks": "Magicite Planks",
+      "block.mp.magicite_stairs": "Magicite Stairs",
+      "advancements.i_can_feel_the_power.descr": "Get Magicite Dust",
+      "item.mp.magicite_armor_helmet": "Magicite Helmet",
+      "item.minecraft.tipped_arrow.effect.flight_potion": "Arrow of Flight Potion",
+      "advancements.the_world_of_magic.title": "The World Of Magic",
+      "block.mp.magicite_block": "Block of Magicite",
+      "item.minecraft.potion.effect.flight_potion": "Flight Potion",
+      "block.mp.magicite_ore": "Magicite Ore",
+      "item.mp.magic_cow_spawn_egg": "Magic Cow Spawn Egg",
+      "advancements.i_can_feel_the_power.title": "I Can Feel The Power",
+      "block.mp.magicite_fence_gate": "Magicite Fence Gate",
+      "item.mp.magicite_hoe": "Magicite Hoe",
+      "item.mp.bedrock_sword": "Bedrock Sword",
+      "block.mp.chair": "Chair",
+      "advancements.the_world_of_magic.descr": "Find A Magic Biome",
+      "item.mp.bedrock_shovel": "Bedrock Shovel",
+      "item.mp.bedrock_armor_leggings": "Bedrock Leggings",
+      "block.mp.magicite_fence": "Magicite Fence",
+      "item.mp.ender_staff": "Ender Staff",
+      "block.mp.sometimes_floor": "Sometimes Floor",
+      "item.mp.magicite_sword": "Magicite Sword",
+      "biome.mp.bedrock_biome": "Bedrock Biome",
+      "item.mp.speaker": "Speaker",
+      "item.mp.bedrock_armor_chestplate": "Bedrock Chestplate",
+      "block.mp.magicite_log": "Magicite Log",
+      "biome.mp.magic_biome": "Magic Biome",
+      "item.mp.bedrock_axe": "Bedrock Axe",
+      "enchantment.mp.duplicator": "Duplicator",
+      "item.mp.magicite_armor_boots": "Magicite Boots",
+      "enchantment.mp.get_help": "Get Help",
+      "item.mp.magicite_shovel": "Magicite Shovel",
+      "item.mp.bedrock_hoe": "Bedrock Hoe",
+      "itemGroup.tabmincraft_plus_tab_items": "Mincraft Plus Items",
+      "item.mp.mpbi": "MPBI",
+      "block.mp.sometimes_floor_on": "Sometimes Floor On",
+      "block.mp.magicite_slab": "Magicite Slab",
+      "subtitles.wash": "",
+      "itemGroup.tabminecraft_plus_blocks": "Minecraft Plus Blocks",
+      "item.mp.magicite_armor_leggings": "Magicite Leggings",
+      "item.mp.magicite_dust": "Magicite",
+      "item.minecraft.splash_potion.effect.flight_potion": "Splash Flight Potion",
+      "advancements.the_item.title": "The Item",
+      "block.mp.campfire_with_stand": "Campfire With Stand",
+      "item.mp.campfire_stand": "Campfire Stand",
+      "block.mp.reaction_table": "Reaction Table",
+      "item.mp.bedrock_armor_helmet": "Bedrock Helmet",
+      "entity.mp.magic_cow": "Magic Cow",
+      "advancements.the_item.descr": "Get A MPBI",
+      "block.mp.graphite": "Graphite",
+      "effect.flight_potion": "Flight Potion",
+      "block.mp.music_box": "Music Box",
+      "item.mp.bedrock_pickaxe": "Bedrock Pickaxe",
+      "itemGroup.tabminecraft_plus_tab_combat_and_tools": "Minecraft Plus Combat And Tools",
+      "item.mp.magicite_axe": "Magicite Axe",
+      "item.minecraft.lingering_potion.effect.flight_potion": "Lingering Flight Potion",
+      "item.mp.magic_ticket": "Magic Ticket",
+      "item.mp.bedrock_dimension": "Bedrock Portal Igniter",
+      "enchantment.mp.bedrock_breaker": "Bedrock Breaker",
+      "subtitles.record.wash": "",
+      "block.mp.magicite_leaves": "Magicite Leaves",
+      "enchantment.mp.haste_miner": "Haste Miner",
+      "item.mp.magicite_pickaxe": "Magicite Pickaxe",
+      "block.mp.magicite_wood": "Magicite Wood"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mp",
+    "modName": "Minecraft Plus",
+    "version": "1.0.0",
+    "author": "EndingOsprey317",
+    "websiteURL": "https://example.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "obfuscate"
+    ],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Needs Obfuscate",
+    "modElementsPackage": "net.ospreymods.mp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

@@ -1,0 +1,9 @@
+{
+  "group": "mp",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mp:magic_ticket"
+  },
+  "result": "mp:magicite_dust"
+}

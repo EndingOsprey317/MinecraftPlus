@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "mp:blocks/magicite__planks",
+    "top": "mp:blocks/magicite__planks",
+    "side": "mp:blocks/magicite__planks"
+  }
+}

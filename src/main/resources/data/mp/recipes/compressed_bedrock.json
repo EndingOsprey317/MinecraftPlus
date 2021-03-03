@@ -1,0 +1,42 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bedrock"
+    },
+    "1": {
+      "item": "minecraft:bedrock"
+    },
+    "2": {
+      "item": "minecraft:bedrock"
+    },
+    "3": {
+      "item": "minecraft:bedrock"
+    },
+    "4": {
+      "item": "minecraft:bedrock"
+    },
+    "5": {
+      "item": "minecraft:bedrock"
+    },
+    "6": {
+      "item": "minecraft:bedrock"
+    },
+    "7": {
+      "item": "minecraft:bedrock"
+    },
+    "8": {
+      "item": "minecraft:bedrock"
+    }
+  },
+  "result": {
+    "item": "mp:compressed_bedrock",
+    "count": 1
+  }
+}

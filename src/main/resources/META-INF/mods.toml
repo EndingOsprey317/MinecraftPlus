@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="mp"
+version="1.0.0"
+displayName="Minecraft Plus"
+credits="Needs Obfuscate"
+displayURL="https://example.com"
+authors="EndingOsprey317"
+
+[[dependencies.mp]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.mp]]
+    modId="obfuscate"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

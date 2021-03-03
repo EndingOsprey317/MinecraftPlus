@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "mp:blocks/magicite__planks",
+    "top": "mp:blocks/magicite__planks",
+    "side": "mp:blocks/magicite__planks"
+  }
+}

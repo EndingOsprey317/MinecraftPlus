@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mp:blocks/sometimes_floor_off",
+    "particle": "mp:blocks/sometimes_floor_off"
+  }
+}

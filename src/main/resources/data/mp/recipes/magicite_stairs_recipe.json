@@ -1,0 +1,33 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:magicite_planks"
+    },
+    "3": {
+      "item": "mp:magicite_planks"
+    },
+    "4": {
+      "item": "mp:magicite_planks"
+    },
+    "6": {
+      "item": "mp:magicite_planks"
+    },
+    "7": {
+      "item": "mp:magicite_planks"
+    },
+    "8": {
+      "item": "mp:magicite_planks"
+    }
+  },
+  "result": {
+    "item": "mp:magicite_stairs",
+    "count": 4
+  }
+}

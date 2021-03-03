@@ -1,0 +1,26 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:magicite_dust"
+    },
+    "2": {
+      "item": "mp:magicite_dust"
+    },
+    "3": {
+      "item": "mp:magicite_dust"
+    },
+    "5": {
+      "item": "mp:magicite_dust"
+    }
+  },
+  "result": {
+    "item": "mp:magicite_armor_boots",
+    "count": 1
+  }
+}

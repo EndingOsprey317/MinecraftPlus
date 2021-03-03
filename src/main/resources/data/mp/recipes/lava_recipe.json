@@ -1,0 +1,12 @@
+{
+  "group": "mp",
+  "type": "minecraft:blasting",
+  "experience": 200,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:smooth_stone"
+  },
+  "result": {
+    "item": "minecraft:lava_bucket"
+  }
+}

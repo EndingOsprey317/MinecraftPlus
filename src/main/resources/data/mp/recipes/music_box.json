@@ -1,0 +1,42 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:speaker"
+    },
+    "1": {
+      "item": "minecraft:jukebox"
+    },
+    "2": {
+      "item": "mp:speaker"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "mp:mpbi"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "6": {
+      "item": "mp:speaker"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "item": "mp:speaker"
+    }
+  },
+  "result": {
+    "item": "mp:music_box",
+    "count": 1
+  }
+}

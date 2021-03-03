@@ -1,0 +1,11 @@
+{
+  "record.wash": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "mp:ending-wash",
+        "stream": true
+      }
+    ]
+  }
+}

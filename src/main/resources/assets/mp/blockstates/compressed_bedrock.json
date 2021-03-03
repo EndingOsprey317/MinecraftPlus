@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mp:block/compressed_bedrock"
+    }
+  }
+}

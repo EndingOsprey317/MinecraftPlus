@@ -1,0 +1,22 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:magicite_planks"
+    },
+    "1": {
+      "item": "mp:magicite_planks"
+    },
+    "2": {
+      "item": "mp:magicite_planks"
+    }
+  },
+  "result": {
+    "item": "mp:magicite_slab",
+    "count": 6
+  }
+}

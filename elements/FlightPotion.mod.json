@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Flight Potion",
+    "effectName": "Flight Potion",
+    "icon": "flight_potion_gui_texture.png",
+    "color": {
+      "value": -3355393,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "Flight_Potion_On"
+    },
+    "onActiveTick": {
+      "name": "Flight_Potion_On"
+    },
+    "onExpired": {
+      "name": "Flight_Potion_Off"
+    }
+  }
+}

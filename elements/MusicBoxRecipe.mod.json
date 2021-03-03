@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Speaker"
+      },
+      {
+        "value": "Blocks.JUKEBOX"
+      },
+      {
+        "value": "CUSTOM:Speaker"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "CUSTOM:MPBI"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "CUSTOM:Speaker"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "CUSTOM:Speaker"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MusicBox"
+    },
+    "name": "music_box",
+    "namespace": "mod"
+  }
+}
