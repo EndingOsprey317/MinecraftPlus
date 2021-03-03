@@ -18,9 +18,4 @@ authors="EndingOsprey317"
 
 
 
-[[dependencies.mp]]
-    modId="obfuscate"
-    mandatory=false
-    ordering="NONE"
-    side="BOTH"
 

@@ -1335,9 +1335,7 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [
-      "obfuscate"
-    ],
+    "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
     "credits": "Needs Obfuscate",
     "modElementsPackage": "net.ospreymods.mp",
