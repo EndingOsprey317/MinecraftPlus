@@ -17,7 +17,7 @@ public class Magicite_AxeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_axe")
 	public static final Item block = null;
 	public Magicite_AxeItem(MpModElements instance) {
-		super(instance, 25);
+		super(instance, 32);
 	}
 
 	@Override

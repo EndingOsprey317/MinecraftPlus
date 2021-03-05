@@ -28,7 +28,7 @@ public class Magicite_LogBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_log")
 	public static final Block block = null;
 	public Magicite_LogBlock(MpModElements instance) {
-		super(instance, 8);
+		super(instance, 13);
 	}
 
 	@Override

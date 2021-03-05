@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @MpModElements.ModElement.Tag
 public class MincraftPlusTabItemsItemGroup extends MpModElements.ModElement {
 	public MincraftPlusTabItemsItemGroup(MpModElements instance) {
-		super(instance, 37);
+		super(instance, 57);
 	}
 
 	@Override

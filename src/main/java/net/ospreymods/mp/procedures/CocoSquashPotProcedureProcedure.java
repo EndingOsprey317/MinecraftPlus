@@ -19,7 +19,7 @@ import java.util.HashMap;
 @MpModElements.ModElement.Tag
 public class CocoSquashPotProcedureProcedure extends MpModElements.ModElement {
 	public CocoSquashPotProcedureProcedure(MpModElements instance) {
-		super(instance, 112);
+		super(instance, 130);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

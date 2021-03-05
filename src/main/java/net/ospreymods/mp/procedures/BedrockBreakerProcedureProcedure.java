@@ -28,7 +28,7 @@ import java.util.HashMap;
 @MpModElements.ModElement.Tag
 public class BedrockBreakerProcedureProcedure extends MpModElements.ModElement {
 	public BedrockBreakerProcedureProcedure(MpModElements instance) {
-		super(instance, 96);
+		super(instance, 116);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

@@ -19,7 +19,7 @@ import java.util.HashMap;
 @MpModElements.ModElement.Tag
 public class Clearitem_ProcedureProcedure extends MpModElements.ModElement {
 	public Clearitem_ProcedureProcedure(MpModElements instance) {
-		super(instance, 110);
+		super(instance, 127);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

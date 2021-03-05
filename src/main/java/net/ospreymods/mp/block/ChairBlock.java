@@ -37,7 +37,7 @@ public class ChairBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:chair")
 	public static final Block block = null;
 	public ChairBlock(MpModElements instance) {
-		super(instance, 21);
+		super(instance, 26);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class MusicBoxDestroyedProcedure extends MpModElements.ModElement {
 	public MusicBoxDestroyedProcedure(MpModElements instance) {
-		super(instance, 66);
+		super(instance, 86);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

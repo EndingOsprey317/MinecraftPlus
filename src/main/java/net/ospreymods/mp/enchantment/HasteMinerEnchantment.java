@@ -16,7 +16,7 @@ public class HasteMinerEnchantment extends MpModElements.ModElement {
 	@ObjectHolder("mp:haste_miner")
 	public static final Enchantment enchantment = null;
 	public HasteMinerEnchantment(MpModElements instance) {
-		super(instance, 107);
+		super(instance, 124);
 	}
 
 	@Override

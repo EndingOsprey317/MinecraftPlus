@@ -101,7 +101,7 @@ public class BedrockDimensionDimension extends MpModElements.ModElement {
 	public static DimensionType type = null;
 	private static Biome[] dimensionBiomes;
 	public BedrockDimensionDimension(MpModElements instance) {
-		super(instance, 105);
+		super(instance, 8);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}

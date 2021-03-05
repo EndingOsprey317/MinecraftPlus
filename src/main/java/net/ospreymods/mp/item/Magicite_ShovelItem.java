@@ -17,7 +17,7 @@ public class Magicite_ShovelItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_shovel")
 	public static final Item block = null;
 	public Magicite_ShovelItem(MpModElements instance) {
-		super(instance, 26);
+		super(instance, 33);
 	}
 
 	@Override

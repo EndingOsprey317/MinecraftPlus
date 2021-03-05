@@ -29,7 +29,7 @@ public class FlightPotionPotion extends MpModElements.ModElement {
 	@ObjectHolder("mp:flight_potion")
 	public static final Potion potionType = null;
 	public FlightPotionPotion(MpModElements instance) {
-		super(instance, 74);
+		super(instance, 94);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

@@ -40,7 +40,7 @@ public class Magicite_OreBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_ore")
 	public static final Block block = null;
 	public Magicite_OreBlock(MpModElements instance) {
-		super(instance, 16);
+		super(instance, 21);
 	}
 
 	@Override

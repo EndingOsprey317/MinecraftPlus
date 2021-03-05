@@ -29,7 +29,7 @@ public class Magicite_ArmorItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_armor_boots")
 	public static final Item boots = null;
 	public Magicite_ArmorItem(MpModElements instance) {
-		super(instance, 28);
+		super(instance, 35);
 	}
 
 	@Override

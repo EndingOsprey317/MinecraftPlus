@@ -16,7 +16,7 @@ public class GetHelpEnchantment extends MpModElements.ModElement {
 	@ObjectHolder("mp:get_help")
 	public static final Enchantment enchantment = null;
 	public GetHelpEnchantment(MpModElements instance) {
-		super(instance, 35);
+		super(instance, 55);
 	}
 
 	@Override

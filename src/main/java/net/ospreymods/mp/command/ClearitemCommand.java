@@ -23,7 +23,7 @@ import com.mojang.brigadier.arguments.StringArgumentType;
 @MpModElements.ModElement.Tag
 public class ClearitemCommand extends MpModElements.ModElement {
 	public ClearitemCommand(MpModElements instance) {
-		super(instance, 110);
+		super(instance, 128);
 	}
 
 	@Override

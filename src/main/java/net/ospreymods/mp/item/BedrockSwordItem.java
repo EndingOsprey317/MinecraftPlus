@@ -18,7 +18,7 @@ public class BedrockSwordItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_sword")
 	public static final Item block = null;
 	public BedrockSwordItem(MpModElements instance) {
-		super(instance, 29);
+		super(instance, 36);
 	}
 
 	@Override

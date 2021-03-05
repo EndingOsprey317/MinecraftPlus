@@ -18,7 +18,7 @@ public class BedrockAxeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_axe")
 	public static final Item block = null;
 	public BedrockAxeItem(MpModElements instance) {
-		super(instance, 31);
+		super(instance, 38);
 	}
 
 	@Override

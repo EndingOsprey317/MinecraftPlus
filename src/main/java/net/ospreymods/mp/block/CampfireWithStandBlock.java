@@ -36,7 +36,7 @@ public class CampfireWithStandBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:campfire_with_stand")
 	public static final Block block = null;
 	public CampfireWithStandBlock(MpModElements instance) {
-		super(instance, 22);
+		super(instance, 27);
 	}
 
 	@Override

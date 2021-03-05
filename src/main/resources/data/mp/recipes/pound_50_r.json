@@ -1,0 +1,19 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:printer_item"
+    },
+    "1": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "mp:pound_50",
+    "count": 1
+  }
+}

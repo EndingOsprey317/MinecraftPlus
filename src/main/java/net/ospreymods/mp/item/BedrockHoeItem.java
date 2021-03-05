@@ -18,7 +18,7 @@ public class BedrockHoeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_hoe")
 	public static final Item block = null;
 	public BedrockHoeItem(MpModElements instance) {
-		super(instance, 33);
+		super(instance, 40);
 	}
 
 	@Override

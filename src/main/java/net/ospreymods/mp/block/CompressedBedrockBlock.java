@@ -29,7 +29,7 @@ public class CompressedBedrockBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:compressed_bedrock")
 	public static final Block block = null;
 	public CompressedBedrockBlock(MpModElements instance) {
-		super(instance, 102);
+		super(instance, 28);
 	}
 
 	@Override

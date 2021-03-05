@@ -24,7 +24,7 @@ public class BedrockBiomeBiome extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_biome")
 	public static final CustomBiome biome = null;
 	public BedrockBiomeBiome(MpModElements instance) {
-		super(instance, 104);
+		super(instance, 122);
 	}
 
 	@Override

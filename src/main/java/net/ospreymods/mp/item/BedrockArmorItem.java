@@ -30,7 +30,7 @@ public class BedrockArmorItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_armor_boots")
 	public static final Item boots = null;
 	public BedrockArmorItem(MpModElements instance) {
-		super(instance, 97);
+		super(instance, 41);
 	}
 
 	@Override

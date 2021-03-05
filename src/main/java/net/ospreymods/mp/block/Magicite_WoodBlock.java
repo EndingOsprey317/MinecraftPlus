@@ -28,7 +28,7 @@ public class Magicite_WoodBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_wood")
 	public static final Block block = null;
 	public Magicite_WoodBlock(MpModElements instance) {
-		super(instance, 10);
+		super(instance, 15);
 	}
 
 	@Override

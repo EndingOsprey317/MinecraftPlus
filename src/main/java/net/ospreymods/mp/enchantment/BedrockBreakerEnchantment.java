@@ -16,7 +16,7 @@ public class BedrockBreakerEnchantment extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_breaker")
 	public static final Enchantment enchantment = null;
 	public BedrockBreakerEnchantment(MpModElements instance) {
-		super(instance, 90);
+		super(instance, 110);
 	}
 
 	@Override

@@ -10,7 +10,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class Flight_Potion_OnProcedure extends MpModElements.ModElement {
 	public Flight_Potion_OnProcedure(MpModElements instance) {
-		super(instance, 76);
+		super(instance, 96);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

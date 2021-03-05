@@ -18,7 +18,7 @@ public class BedrockShovelItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_shovel")
 	public static final Item block = null;
 	public BedrockShovelItem(MpModElements instance) {
-		super(instance, 32);
+		super(instance, 39);
 	}
 
 	@Override

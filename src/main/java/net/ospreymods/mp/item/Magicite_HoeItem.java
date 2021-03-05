@@ -17,7 +17,7 @@ public class Magicite_HoeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_hoe")
 	public static final Item block = null;
 	public Magicite_HoeItem(MpModElements instance) {
-		super(instance, 27);
+		super(instance, 34);
 	}
 
 	@Override

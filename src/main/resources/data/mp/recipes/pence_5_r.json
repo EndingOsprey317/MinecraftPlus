@@ -1,0 +1,16 @@
+{
+  "group": "mp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "mp:printer_item"
+    }
+  },
+  "result": {
+    "item": "mp:pence_5",
+    "count": 1
+  }
+}

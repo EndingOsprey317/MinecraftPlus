@@ -4,7 +4,7 @@
     {
       "name": "GetHelp",
       "type": "enchantment",
-      "sortid": 35,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "GetHelpUse",
       "type": "procedure",
-      "sortid": 36,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -30,7 +30,7 @@
     {
       "name": "MincraftPlusTabItems",
       "type": "tab",
-      "sortid": 37,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -57,7 +57,7 @@
     {
       "name": "Magicite_Ore",
       "type": "block",
-      "sortid": 16,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -66,7 +66,7 @@
     {
       "name": "Magicite_Block",
       "type": "block",
-      "sortid": 17,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -75,7 +75,7 @@
     {
       "name": "Magicite_OreBlockRecipe",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -84,7 +84,7 @@
     {
       "name": "Magicite_BlockOreRecipe",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -93,7 +93,7 @@
     {
       "name": "Magicite_OreSmelting",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -102,7 +102,7 @@
     {
       "name": "Magicite_Pickaxe",
       "type": "tool",
-      "sortid": 24,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -111,7 +111,7 @@
     {
       "name": "Magicite_Axe",
       "type": "tool",
-      "sortid": 25,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -120,7 +120,7 @@
     {
       "name": "Magicite_Sword",
       "type": "tool",
-      "sortid": 23,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -129,7 +129,7 @@
     {
       "name": "Magicite_Shovel",
       "type": "tool",
-      "sortid": 26,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -138,7 +138,7 @@
     {
       "name": "Magicite_Hoe",
       "type": "tool",
-      "sortid": 27,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -147,7 +147,7 @@
     {
       "name": "Magicite_PickaxeRecipe",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -156,7 +156,7 @@
     {
       "name": "Magicite_AxeRecipe",
       "type": "recipe",
-      "sortid": 42,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -165,7 +165,7 @@
     {
       "name": "Magicite_SwordRecipe",
       "type": "recipe",
-      "sortid": 43,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -174,7 +174,7 @@
     {
       "name": "Magicite_ShovelRecipe",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -183,7 +183,7 @@
     {
       "name": "Magicite_HoeRecipe",
       "type": "recipe",
-      "sortid": 45,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -192,7 +192,7 @@
     {
       "name": "Magicite_Armor",
       "type": "armor",
-      "sortid": 28,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -207,7 +207,7 @@
     {
       "name": "Magicite_ArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 46,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -216,7 +216,7 @@
     {
       "name": "Magicite_ArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 47,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -225,7 +225,7 @@
     {
       "name": "Magicite_ArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -234,7 +234,7 @@
     {
       "name": "Magicite_ArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -243,7 +243,7 @@
     {
       "name": "Magicite_Wood",
       "type": "block",
-      "sortid": 10,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -252,7 +252,7 @@
     {
       "name": "Magicite_Log",
       "type": "block",
-      "sortid": 8,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -261,7 +261,7 @@
     {
       "name": "Magicite_Planks",
       "type": "block",
-      "sortid": 11,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -270,7 +270,7 @@
     {
       "name": "Magicite_Leaves",
       "type": "block",
-      "sortid": 9,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -279,7 +279,7 @@
     {
       "name": "Magicite_Stairs",
       "type": "block",
-      "sortid": 12,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -288,7 +288,7 @@
     {
       "name": "Magicite_Slab",
       "type": "block",
-      "sortid": 13,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -297,7 +297,7 @@
     {
       "name": "Magicite_Fence",
       "type": "block",
-      "sortid": 14,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -306,7 +306,7 @@
     {
       "name": "Magicite_FenceGate",
       "type": "block",
-      "sortid": 15,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -315,7 +315,7 @@
     {
       "name": "Magicite_WoodRecipe",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -324,7 +324,7 @@
     {
       "name": "Magicite_PlanksRecipe",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -333,7 +333,7 @@
     {
       "name": "Magicite_StairsRecipe",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -342,7 +342,7 @@
     {
       "name": "Magicite_SlabRecipe",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -351,7 +351,7 @@
     {
       "name": "Magicite_FenceRecipe",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -360,7 +360,7 @@
     {
       "name": "Magicite_FenceGateRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -369,7 +369,7 @@
     {
       "name": "Magicite_StickRecipe",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -378,7 +378,7 @@
     {
       "name": "MagicBiome",
       "type": "biome",
-      "sortid": 57,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -387,7 +387,7 @@
     {
       "name": "MinecraftPlusTabCombatAndTools",
       "type": "tab",
-      "sortid": 58,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -396,7 +396,7 @@
     {
       "name": "MinecraftPlusBlocks",
       "type": "tab",
-      "sortid": 59,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -414,7 +414,7 @@
     {
       "name": "MagiciteTag",
       "type": "tag",
-      "sortid": 60,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -423,7 +423,7 @@
     {
       "name": "MPBIRecipe",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -432,7 +432,7 @@
     {
       "name": "MusicBoxGui",
       "type": "gui",
-      "sortid": 62,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -441,7 +441,7 @@
     {
       "name": "MusicBox",
       "type": "block",
-      "sortid": 18,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -459,7 +459,7 @@
     {
       "name": "MusicBoxRecipe",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -468,7 +468,7 @@
     {
       "name": "SpeakerRecipe",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -477,7 +477,7 @@
     {
       "name": "PlayChirp",
       "type": "procedure",
-      "sortid": 65,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -506,7 +506,7 @@
     {
       "name": "MusicBoxDestroyed",
       "type": "procedure",
-      "sortid": 66,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -535,7 +535,7 @@
     {
       "name": "ReactionTableGUI",
       "type": "gui",
-      "sortid": 67,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -544,7 +544,7 @@
     {
       "name": "ReactionTable",
       "type": "block",
-      "sortid": 19,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -553,7 +553,7 @@
     {
       "name": "ReactionTableCraft",
       "type": "procedure",
-      "sortid": 68,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -570,7 +570,7 @@
     {
       "name": "Graphite",
       "type": "block",
-      "sortid": 34,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -579,7 +579,7 @@
     {
       "name": "ReactionTableRecipe",
       "type": "recipe",
-      "sortid": 69,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -588,7 +588,7 @@
     {
       "name": "LavaRecipe",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -606,7 +606,7 @@
     {
       "name": "EnderStaffGui",
       "type": "gui",
-      "sortid": 71,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -615,7 +615,7 @@
     {
       "name": "EnderStaffGo",
       "type": "procedure",
-      "sortid": 72,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -636,7 +636,7 @@
     {
       "name": "EnderStaffFindPosition",
       "type": "procedure",
-      "sortid": 73,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -653,7 +653,7 @@
     {
       "name": "FlightPotion",
       "type": "potion",
-      "sortid": 74,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -662,7 +662,7 @@
     {
       "name": "Flight_Potion_Off",
       "type": "procedure",
-      "sortid": 75,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -679,7 +679,7 @@
     {
       "name": "Flight_Potion_On",
       "type": "procedure",
-      "sortid": 76,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -696,7 +696,7 @@
     {
       "name": "EnderStaffRecipe",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -705,7 +705,7 @@
     {
       "name": "TheWorldOfMagic",
       "type": "achievement",
-      "sortid": 78,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -714,7 +714,7 @@
     {
       "name": "ICanFeelThePower",
       "type": "achievement",
-      "sortid": 79,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -723,7 +723,7 @@
     {
       "name": "TheItem",
       "type": "achievement",
-      "sortid": 80,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -741,7 +741,7 @@
     {
       "name": "TicketMagicite",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -750,7 +750,7 @@
     {
       "name": "TicketMPBI",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -759,7 +759,7 @@
     {
       "name": "SometimesFloorOn",
       "type": "block",
-      "sortid": 83,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -768,7 +768,7 @@
     {
       "name": "SometimesFloor",
       "type": "block",
-      "sortid": 20,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -777,7 +777,7 @@
     {
       "name": "Sometimes_Floor_Redstone_Off",
       "type": "procedure",
-      "sortid": 84,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -806,7 +806,7 @@
     {
       "name": "Sometimes_Floor_Redstone_On",
       "type": "procedure",
-      "sortid": 85,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -835,7 +835,7 @@
     {
       "name": "Chair",
       "type": "block",
-      "sortid": 21,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -844,7 +844,7 @@
     {
       "name": "ChairRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -862,7 +862,7 @@
     {
       "name": "CampfireWithStand",
       "type": "block",
-      "sortid": 22,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -871,7 +871,7 @@
     {
       "name": "CampfireStandRecipe",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -880,7 +880,7 @@
     {
       "name": "CampfireWithStandRecipe",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -889,7 +889,7 @@
     {
       "name": "SometimesFloorRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -898,7 +898,7 @@
     {
       "name": "BedrockBreaker",
       "type": "enchantment",
-      "sortid": 90,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -907,7 +907,7 @@
     {
       "name": "BedrockPickaxe",
       "type": "tool",
-      "sortid": 30,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -916,7 +916,7 @@
     {
       "name": "BedrockAxe",
       "type": "tool",
-      "sortid": 31,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -925,7 +925,7 @@
     {
       "name": "BedrockSword",
       "type": "tool",
-      "sortid": 29,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -934,7 +934,7 @@
     {
       "name": "BedrockShovel",
       "type": "tool",
-      "sortid": 32,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -943,7 +943,7 @@
     {
       "name": "BedrockHoe",
       "type": "tool",
-      "sortid": 33,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -952,7 +952,7 @@
     {
       "name": "BedrockPickaxeRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -961,7 +961,7 @@
     {
       "name": "BedrockAxeRecipe",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -970,7 +970,7 @@
     {
       "name": "BedrockSwordRecipe",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -979,7 +979,7 @@
     {
       "name": "BedrockShovelRecipe",
       "type": "recipe",
-      "sortid": 94,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -988,7 +988,7 @@
     {
       "name": "BedrockHoeRecipe",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -997,7 +997,7 @@
     {
       "name": "BedrockBreakerProcedure",
       "type": "procedure",
-      "sortid": 96,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1030,7 +1030,7 @@
     {
       "name": "BedrockArmor",
       "type": "armor",
-      "sortid": 97,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1045,7 +1045,7 @@
     {
       "name": "BedrockArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1054,7 +1054,7 @@
     {
       "name": "BedrockArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1063,7 +1063,7 @@
     {
       "name": "BedrockArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1072,7 +1072,7 @@
     {
       "name": "BedrockArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1081,7 +1081,7 @@
     {
       "name": "CompressedBedrock",
       "type": "block",
-      "sortid": 102,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1090,7 +1090,7 @@
     {
       "name": "CompressedBedrockRecipe",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1099,7 +1099,7 @@
     {
       "name": "BedrockBiome",
       "type": "biome",
-      "sortid": 104,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1108,7 +1108,7 @@
     {
       "name": "BedrockDimension",
       "type": "dimension",
-      "sortid": 105,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1117,7 +1117,7 @@
     {
       "name": "BedrockPortalIgniterRecipe",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1126,7 +1126,7 @@
     {
       "name": "HasteMiner",
       "type": "enchantment",
-      "sortid": 107,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1135,7 +1135,7 @@
     {
       "name": "HasteMinerProcedure",
       "type": "procedure",
-      "sortid": 108,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1168,7 +1168,7 @@
     {
       "name": "Duplicator",
       "type": "enchantment",
-      "sortid": 109,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1177,7 +1177,7 @@
     {
       "name": "Clearitem_Procedure",
       "type": "procedure",
-      "sortid": 110,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1210,7 +1210,7 @@
     {
       "name": "Clearitem",
       "type": "command",
-      "sortid": 110,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1219,7 +1219,7 @@
     {
       "name": "CocoSquashPotGui",
       "type": "gui",
-      "sortid": 111,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1228,7 +1228,7 @@
     {
       "name": "CocoSquashPot",
       "type": "block",
-      "sortid": 111,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1237,7 +1237,7 @@
     {
       "name": "CocoSquashPotProcedure",
       "type": "procedure",
-      "sortid": 112,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1254,7 +1254,7 @@
     {
       "name": "SetSquashesTo0",
       "type": "procedure",
-      "sortid": 113,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1271,7 +1271,7 @@
     {
       "name": "DarkChocolate",
       "type": "food",
-      "sortid": 114,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1280,7 +1280,7 @@
     {
       "name": "DarkChocolateBar",
       "type": "food",
-      "sortid": 115,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1289,7 +1289,7 @@
     {
       "name": "DarkChocolateBarRecipe",
       "type": "recipe",
-      "sortid": 116,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1298,7 +1298,7 @@
     {
       "name": "MilkChocolate",
       "type": "food",
-      "sortid": 117,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1307,7 +1307,7 @@
     {
       "name": "MilkChocolateRecipe",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1316,7 +1316,7 @@
     {
       "name": "MilkChocolateBar",
       "type": "food",
-      "sortid": 119,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1325,11 +1325,266 @@
     {
       "name": "MilkChocolateBarRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "milk_chocolate_bar_recipe"
+    },
+    {
+      "name": "Money",
+      "type": "tab",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money"
+    },
+    {
+      "name": "Pence1",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_1"
+    },
+    {
+      "name": "Pence2",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_2"
+    },
+    {
+      "name": "Pence5",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_5"
+    },
+    {
+      "name": "Pence10",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_10"
+    },
+    {
+      "name": "Pence20",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_20"
+    },
+    {
+      "name": "Pence50",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_50"
+    },
+    {
+      "name": "Pound1",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_1"
+    },
+    {
+      "name": "Pound2",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_2"
+    },
+    {
+      "name": "Pound5",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_5"
+    },
+    {
+      "name": "Pound10",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_10"
+    },
+    {
+      "name": "Pound20",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_20"
+    },
+    {
+      "name": "Pound50",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_50"
+    },
+    {
+      "name": "PrinterItemDrop",
+      "type": "procedure",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "printer_item_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PrinterItem",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "printer_item"
+    },
+    {
+      "name": "Pence5R",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_5_r"
+    },
+    {
+      "name": "Pence10R",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_10_r"
+    },
+    {
+      "name": "Pence20R",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_20_r"
+    },
+    {
+      "name": "Pence50R",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_50_r"
+    },
+    {
+      "name": "Pence1R",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_1_r"
+    },
+    {
+      "name": "Pence2R",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pence_2_r"
+    },
+    {
+      "name": "Pound1R",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_1_r"
+    },
+    {
+      "name": "Pound2R",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_2_r"
+    },
+    {
+      "name": "Pound5R",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_5_r"
+    },
+    {
+      "name": "Pound10R",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_10_r"
+    },
+    {
+      "name": "Pound20R",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_20_r"
+    },
+    {
+      "name": "Pound50R",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pound_50_r"
     }
   ],
   "variable_elements": [
@@ -1356,6 +1611,12 @@
       "type": "number",
       "scope": "player_persistent",
       "value": "0"
+    },
+    {
+      "name": "PIG",
+      "type": "logic",
+      "scope": "world",
+      "value": "false"
     }
   ],
   "sound_elements": [
@@ -1388,11 +1649,14 @@
       "item.mp.magicite_hoe": "Magicite Hoe",
       "item.mp.bedrock_sword": "Bedrock Sword",
       "block.mp.chair": "Chair",
+      "itemGroup.tabmoney": "Money",
+      "item.mp.pound_20": "Pound 20",
       "advancements.the_world_of_magic.descr": "Find A Magic Biome",
       "item.mp.bedrock_shovel": "Bedrock Shovel",
       "item.mp.bedrock_armor_leggings": "Bedrock Leggings",
       "block.mp.magicite_fence": "Magicite Fence",
       "item.mp.ender_staff": "Ender Staff",
+      "item.mp.pence_20": "Pence 20",
       "block.mp.sometimes_floor": "Sometimes Floor",
       "item.mp.magicite_sword": "Magicite Sword",
       "biome.mp.bedrock_biome": "Bedrock Biome",
@@ -1403,10 +1667,15 @@
       "item.mp.dark_chocolate_bar": "Dark Chocolate Bar",
       "item.mp.bedrock_axe": "Bedrock Axe",
       "enchantment.mp.duplicator": "Duplicator",
+      "item.mp.pound_10": "Pound 10",
+      "item.mp.printer_item": "Printer Item",
       "item.mp.magicite_armor_boots": "Magicite Boots",
       "enchantment.mp.get_help": "Get Help",
+      "item.mp.pound_50": "Pound 50",
       "item.mp.magicite_shovel": "Magicite Shovel",
       "item.mp.bedrock_hoe": "Bedrock Hoe",
+      "item.mp.pence_5": "Pence 5",
+      "item.mp.pence_10": "Pence 10",
       "itemGroup.tabmincraft_plus_tab_items": "Mincraft Plus Items",
       "item.mp.mpbi": "MPBI",
       "block.mp.sometimes_floor_on": "Sometimes Floor On",
@@ -1423,6 +1692,7 @@
       "block.mp.reaction_table": "Reaction Table",
       "item.mp.bedrock_armor_helmet": "Bedrock Helmet",
       "item.mp.milk_chocolate_bar": "Milk Chocolate Bar",
+      "item.mp.pence_50": "Pence 50",
       "entity.mp.magic_cow": "Magic Cow",
       "advancements.the_item.descr": "Get A MPBI",
       "block.mp.graphite": "Graphite",
@@ -1434,9 +1704,14 @@
       "item.mp.magicite_axe": "Magicite Axe",
       "item.minecraft.lingering_potion.effect.flight_potion": "Lingering Flight Potion",
       "item.mp.magic_ticket": "Magic Ticket",
+      "item.mp.pound_5": "Pound 5",
+      "item.mp.pound_1": "Pound 1",
+      "item.mp.pound_2": "Pound 2",
       "block.mp.coco_squash_pot": "Coco Squash Pot",
       "item.mp.bedrock_dimension": "Bedrock Portal Igniter",
+      "item.mp.pence_2": "Pence 2",
       "enchantment.mp.bedrock_breaker": "Bedrock Breaker",
+      "item.mp.pence_1": "Pence 1",
       "subtitles.record.wash": "",
       "block.mp.magicite_leaves": "Magicite Leaves",
       "enchantment.mp.haste_miner": "Haste Miner",
@@ -1447,7 +1722,7 @@
   "workspaceSettings": {
     "modid": "mp",
     "modName": "Minecraft Plus",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "author": "EndingOsprey317",
     "websiteURL": "https://example.com",
     "disableForgeVersionCheck": true,

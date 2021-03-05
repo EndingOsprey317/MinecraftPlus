@@ -10,7 +10,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class EnderStaffFindPositionProcedure extends MpModElements.ModElement {
 	public EnderStaffFindPositionProcedure(MpModElements instance) {
-		super(instance, 73);
+		super(instance, 93);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

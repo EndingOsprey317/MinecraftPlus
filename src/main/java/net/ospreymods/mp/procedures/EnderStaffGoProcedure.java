@@ -13,7 +13,7 @@ import java.util.Collections;
 @MpModElements.ModElement.Tag
 public class EnderStaffGoProcedure extends MpModElements.ModElement {
 	public EnderStaffGoProcedure(MpModElements instance) {
-		super(instance, 72);
+		super(instance, 92);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

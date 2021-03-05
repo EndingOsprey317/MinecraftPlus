@@ -25,7 +25,7 @@ public class Magicite_SwordItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_sword")
 	public static final Item block = null;
 	public Magicite_SwordItem(MpModElements instance) {
-		super(instance, 23);
+		super(instance, 30);
 	}
 
 	@Override

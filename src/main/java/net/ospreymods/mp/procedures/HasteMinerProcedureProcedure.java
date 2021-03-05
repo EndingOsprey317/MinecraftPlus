@@ -26,7 +26,7 @@ import java.util.HashMap;
 @MpModElements.ModElement.Tag
 public class HasteMinerProcedureProcedure extends MpModElements.ModElement {
 	public HasteMinerProcedureProcedure(MpModElements instance) {
-		super(instance, 108);
+		super(instance, 125);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

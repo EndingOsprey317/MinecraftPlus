@@ -17,7 +17,7 @@ public class Magicite_PickaxeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_pickaxe")
 	public static final Item block = null;
 	public Magicite_PickaxeItem(MpModElements instance) {
-		super(instance, 24);
+		super(instance, 31);
 	}
 
 	@Override

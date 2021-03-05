@@ -11,7 +11,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class Sometimes_Floor_Redstone_OnProcedure extends MpModElements.ModElement {
 	public Sometimes_Floor_Redstone_OnProcedure(MpModElements instance) {
-		super(instance, 85);
+		super(instance, 105);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

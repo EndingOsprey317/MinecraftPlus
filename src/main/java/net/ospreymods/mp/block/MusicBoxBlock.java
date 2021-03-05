@@ -75,7 +75,7 @@ public class MusicBoxBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:music_box")
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 	public MusicBoxBlock(MpModElements instance) {
-		super(instance, 18);
+		super(instance, 23);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

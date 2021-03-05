@@ -18,7 +18,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class ReactionTableCraftProcedure extends MpModElements.ModElement {
 	public ReactionTableCraftProcedure(MpModElements instance) {
-		super(instance, 68);
+		super(instance, 88);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

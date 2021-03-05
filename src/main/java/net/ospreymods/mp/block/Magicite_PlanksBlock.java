@@ -27,7 +27,7 @@ public class Magicite_PlanksBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_planks")
 	public static final Block block = null;
 	public Magicite_PlanksBlock(MpModElements instance) {
-		super(instance, 11);
+		super(instance, 16);
 	}
 
 	@Override

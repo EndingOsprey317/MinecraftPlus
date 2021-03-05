@@ -24,7 +24,7 @@ public class BedrockPickaxeItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:bedrock_pickaxe")
 	public static final Item block = null;
 	public BedrockPickaxeItem(MpModElements instance) {
-		super(instance, 30);
+		super(instance, 37);
 	}
 
 	@Override

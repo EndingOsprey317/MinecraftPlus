@@ -28,7 +28,7 @@ public class Magicite_FenceBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_fence")
 	public static final Block block = null;
 	public Magicite_FenceBlock(MpModElements instance) {
-		super(instance, 14);
+		super(instance, 19);
 	}
 
 	@Override

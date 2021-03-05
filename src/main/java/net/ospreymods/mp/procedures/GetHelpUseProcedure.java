@@ -16,7 +16,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class GetHelpUseProcedure extends MpModElements.ModElement {
 	public GetHelpUseProcedure(MpModElements instance) {
-		super(instance, 36);
+		super(instance, 56);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

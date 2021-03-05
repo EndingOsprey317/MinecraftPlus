@@ -32,7 +32,7 @@ public class SometimesFloorOnBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:sometimes_floor_on")
 	public static final Block block = null;
 	public SometimesFloorOnBlock(MpModElements instance) {
-		super(instance, 83);
+		super(instance, 103);
 	}
 
 	@Override

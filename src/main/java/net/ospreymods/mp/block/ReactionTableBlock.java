@@ -72,7 +72,7 @@ public class ReactionTableBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:reaction_table")
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 	public ReactionTableBlock(MpModElements instance) {
-		super(instance, 19);
+		super(instance, 24);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

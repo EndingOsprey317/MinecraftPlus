@@ -16,7 +16,7 @@ public class DuplicatorEnchantment extends MpModElements.ModElement {
 	@ObjectHolder("mp:duplicator")
 	public static final Enchantment enchantment = null;
 	public DuplicatorEnchantment(MpModElements instance) {
-		super(instance, 109);
+		super(instance, 126);
 	}
 
 	@Override

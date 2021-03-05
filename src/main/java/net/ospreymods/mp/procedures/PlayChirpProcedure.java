@@ -20,7 +20,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class PlayChirpProcedure extends MpModElements.ModElement {
 	public PlayChirpProcedure(MpModElements instance) {
-		super(instance, 65);
+		super(instance, 85);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

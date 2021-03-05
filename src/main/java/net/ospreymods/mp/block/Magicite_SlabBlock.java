@@ -28,7 +28,7 @@ public class Magicite_SlabBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:magicite_slab")
 	public static final Block block = null;
 	public Magicite_SlabBlock(MpModElements instance) {
-		super(instance, 13);
+		super(instance, 18);
 	}
 
 	@Override

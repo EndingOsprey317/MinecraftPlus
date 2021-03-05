@@ -38,7 +38,7 @@ public class GraphiteBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:graphite")
 	public static final Block block = null;
 	public GraphiteBlock(MpModElements instance) {
-		super(instance, 34);
+		super(instance, 42);
 	}
 
 	@Override

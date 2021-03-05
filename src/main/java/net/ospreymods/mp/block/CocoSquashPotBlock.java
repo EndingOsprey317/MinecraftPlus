@@ -73,7 +73,7 @@ public class CocoSquashPotBlock extends MpModElements.ModElement {
 	@ObjectHolder("mp:coco_squash_pot")
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 	public CocoSquashPotBlock(MpModElements instance) {
-		super(instance, 111);
+		super(instance, 29);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

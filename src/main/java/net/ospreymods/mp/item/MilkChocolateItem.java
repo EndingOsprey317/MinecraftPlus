@@ -17,7 +17,7 @@ public class MilkChocolateItem extends MpModElements.ModElement {
 	@ObjectHolder("mp:milk_chocolate")
 	public static final Item block = null;
 	public MilkChocolateItem(MpModElements instance) {
-		super(instance, 117);
+		super(instance, 11);
 	}
 
 	@Override

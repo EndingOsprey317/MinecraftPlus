@@ -10,7 +10,7 @@ import java.util.Map;
 @MpModElements.ModElement.Tag
 public class SetSquashesTo0Procedure extends MpModElements.ModElement {
 	public SetSquashesTo0Procedure(MpModElements instance) {
-		super(instance, 113);
+		super(instance, 131);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

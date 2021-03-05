@@ -42,7 +42,7 @@ public class MagicBiomeBiome extends MpModElements.ModElement {
 	@ObjectHolder("mp:magic_biome")
 	public static final CustomBiome biome = null;
 	public MagicBiomeBiome(MpModElements instance) {
-		super(instance, 57);
+		super(instance, 77);
 	}
 
 	@Override
