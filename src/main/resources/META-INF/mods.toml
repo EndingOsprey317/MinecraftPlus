@@ -3,9 +3,9 @@ loaderVersion="[31,)"
 
 [[mods]]
 modId="mp"
-version="1.0.0"
+version="3.0.0"
 displayName="Minecraft Plus"
-credits="Needs Obfuscate"
+credits="I made this mod"
 displayURL="https://example.com"
 authors="EndingOsprey317"
 

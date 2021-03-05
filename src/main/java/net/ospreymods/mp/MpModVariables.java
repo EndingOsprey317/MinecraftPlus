@@ -70,7 +70,7 @@ public class MpModVariables {
 			nbt.putDouble("PlayerX", instance.PlayerX);
 			nbt.putDouble("PlayerY", instance.PlayerY);
 			nbt.putDouble("PlayerZ", instance.PlayerZ);
-			nbt.putBoolean("Player_Kicking", instance.Player_Kicking);
+			nbt.putDouble("Squashes", instance.Squashes);
 			return nbt;
 		}
 
@@ -80,7 +80,7 @@ public class MpModVariables {
 			instance.PlayerX = nbt.getDouble("PlayerX");
 			instance.PlayerY = nbt.getDouble("PlayerY");
 			instance.PlayerZ = nbt.getDouble("PlayerZ");
-			instance.Player_Kicking = nbt.getBoolean("Player_Kicking");
+			instance.Squashes = nbt.getDouble("Squashes");
 		}
 	}
 
@@ -88,7 +88,7 @@ public class MpModVariables {
 		public double PlayerX = 0;
 		public double PlayerY = 0;
 		public double PlayerZ = 0;
-		public boolean Player_Kicking = false;
+		public double Squashes = 0;
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayerEntity)
 				MpMod.PACKET_HANDLER.send(PacketDistributor.PLAYER.with(() -> (ServerPlayerEntity) entity), new PlayerVariablesSyncMessage(this));
@@ -123,7 +123,7 @@ public class MpModVariables {
 		clone.PlayerX = original.PlayerX;
 		clone.PlayerY = original.PlayerY;
 		clone.PlayerZ = original.PlayerZ;
-		clone.Player_Kicking = original.Player_Kicking;
+		clone.Squashes = original.Squashes;
 		if (!event.isWasDeath()) {
 		}
 	}
@@ -151,7 +151,7 @@ public class MpModVariables {
 					variables.PlayerX = message.data.PlayerX;
 					variables.PlayerY = message.data.PlayerY;
 					variables.PlayerZ = message.data.PlayerZ;
-					variables.Player_Kicking = message.data.Player_Kicking;
+					variables.Squashes = message.data.Squashes;
 				}
 			});
 			context.setPacketHandled(true);

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mp:blocks/iron_block",
+    "up": "mp:blocks/coco_squash_pot_top",
+    "north": "mp:blocks/iron_block",
+    "east": "mp:blocks/iron_block",
+    "south": "mp:blocks/iron_block",
+    "west": "mp:blocks/iron_block",
+    "particle": "mp:blocks/iron_block"
+  }
+}

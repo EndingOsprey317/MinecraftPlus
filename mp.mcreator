@@ -1215,6 +1215,121 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "clearitem"
+    },
+    {
+      "name": "CocoSquashPotGui",
+      "type": "gui",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coco_squash_pot_gui"
+    },
+    {
+      "name": "CocoSquashPot",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coco_squash_pot"
+    },
+    {
+      "name": "CocoSquashPotProcedure",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coco_squash_pot_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SetSquashesTo0",
+      "type": "procedure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "set_squashes_to_0",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DarkChocolate",
+      "type": "food",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_chocolate"
+    },
+    {
+      "name": "DarkChocolateBar",
+      "type": "food",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_chocolate_bar"
+    },
+    {
+      "name": "DarkChocolateBarRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_chocolate_bar_recipe"
+    },
+    {
+      "name": "MilkChocolate",
+      "type": "food",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_chocolate"
+    },
+    {
+      "name": "MilkChocolateRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_chocolate_recipe"
+    },
+    {
+      "name": "MilkChocolateBar",
+      "type": "food",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_chocolate_bar"
+    },
+    {
+      "name": "MilkChocolateBarRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk_chocolate_bar_recipe"
     }
   ],
   "variable_elements": [
@@ -1237,10 +1352,10 @@
       "value": "0"
     },
     {
-      "name": "Player_Kicking",
-      "type": "logic",
+      "name": "Squashes",
+      "type": "number",
       "scope": "player_persistent",
-      "value": "false"
+      "value": "0"
     }
   ],
   "sound_elements": [
@@ -1268,8 +1383,8 @@
       "item.minecraft.potion.effect.flight_potion": "Flight Potion",
       "block.mp.magicite_ore": "Magicite Ore",
       "item.mp.magic_cow_spawn_egg": "Magic Cow Spawn Egg",
-      "advancements.i_can_feel_the_power.title": "I Can Feel The Power",
       "block.mp.magicite_fence_gate": "Magicite Fence Gate",
+      "advancements.i_can_feel_the_power.title": "I Can Feel The Power",
       "item.mp.magicite_hoe": "Magicite Hoe",
       "item.mp.bedrock_sword": "Bedrock Sword",
       "block.mp.chair": "Chair",
@@ -1285,6 +1400,7 @@
       "item.mp.bedrock_armor_chestplate": "Bedrock Chestplate",
       "block.mp.magicite_log": "Magicite Log",
       "biome.mp.magic_biome": "Magic Biome",
+      "item.mp.dark_chocolate_bar": "Dark Chocolate Bar",
       "item.mp.bedrock_axe": "Bedrock Axe",
       "enchantment.mp.duplicator": "Duplicator",
       "item.mp.magicite_armor_boots": "Magicite Boots",
@@ -1302,19 +1418,23 @@
       "item.minecraft.splash_potion.effect.flight_potion": "Splash Flight Potion",
       "advancements.the_item.title": "The Item",
       "block.mp.campfire_with_stand": "Campfire With Stand",
+      "item.mp.dark_chocolate": "Dark Chocolate",
       "item.mp.campfire_stand": "Campfire Stand",
       "block.mp.reaction_table": "Reaction Table",
       "item.mp.bedrock_armor_helmet": "Bedrock Helmet",
+      "item.mp.milk_chocolate_bar": "Milk Chocolate Bar",
       "entity.mp.magic_cow": "Magic Cow",
       "advancements.the_item.descr": "Get A MPBI",
       "block.mp.graphite": "Graphite",
       "effect.flight_potion": "Flight Potion",
       "block.mp.music_box": "Music Box",
       "item.mp.bedrock_pickaxe": "Bedrock Pickaxe",
+      "item.mp.milk_chocolate": "Milk Chocolate",
       "itemGroup.tabminecraft_plus_tab_combat_and_tools": "Minecraft Plus Combat And Tools",
       "item.mp.magicite_axe": "Magicite Axe",
       "item.minecraft.lingering_potion.effect.flight_potion": "Lingering Flight Potion",
       "item.mp.magic_ticket": "Magic Ticket",
+      "block.mp.coco_squash_pot": "Coco Squash Pot",
       "item.mp.bedrock_dimension": "Bedrock Portal Igniter",
       "enchantment.mp.bedrock_breaker": "Bedrock Breaker",
       "subtitles.record.wash": "",
@@ -1327,7 +1447,7 @@
   "workspaceSettings": {
     "modid": "mp",
     "modName": "Minecraft Plus",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "author": "EndingOsprey317",
     "websiteURL": "https://example.com",
     "disableForgeVersionCheck": true,
@@ -1337,7 +1457,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
-    "credits": "Needs Obfuscate",
+    "credits": "I made this mod",
     "modElementsPackage": "net.ospreymods.mp",
     "lockBaseModFiles": false
   },

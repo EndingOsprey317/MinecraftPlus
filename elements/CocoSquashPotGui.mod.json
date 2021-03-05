@@ -1,0 +1,90 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.DYE#3"
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 168,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 240,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow.png",
+          "use1Xscale": false,
+          "name": "arrow.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Squash",
+          "onClick": {
+            "name": "CocoSquashPotProcedure"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Squash",
+          "x": 186,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Squash Pot",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Squash Pot",
+          "x": 186,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Squashes: <VAR:integer:Squashes>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Squashes: <VAR:integer:Squashes>",
+          "x": 169,
+          "y": 83
+        }
+      }
+    ]
+  }
+}
