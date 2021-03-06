@@ -2,11 +2,37 @@
   "group": "mp",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0"
+    "012",
+    "345",
+    "678"
   ],
   "key": {
     "0": {
+      "item": "minecraft:iron_block"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "5": {
+      "item": "minecraft:iron_block"
+    },
+    "6": {
       "item": "mp:printer_item"
+    },
+    "7": {
+      "item": "minecraft:iron_block"
+    },
+    "8": {
+      "item": "minecraft:iron_block"
     }
   },
   "result": {

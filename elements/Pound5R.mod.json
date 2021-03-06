@@ -13,28 +13,28 @@
         "value": "CUSTOM:PrinterItem"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
         "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.DYE#0"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.PAPER"
       }
     ],
     "recipeReturnStack": {

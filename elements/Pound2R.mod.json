@@ -10,28 +10,28 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.GOLD_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
-        "value": ""
+        "value": "Blocks.IRON_BLOCK"
       },
       {
         "value": "CUSTOM:PrinterItem"

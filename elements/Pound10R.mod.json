@@ -10,31 +10,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
         "value": "CUSTOM:PrinterItem"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
         "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.DYE#0"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
       },
       {
-        "value": ""
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.PAPER"
       }
     ],
     "recipeReturnStack": {
